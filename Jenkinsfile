@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'built-in'
+      label 'Built-In Node'
     }
 
   }
